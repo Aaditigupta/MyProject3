@@ -9,6 +9,13 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.m in.js"></script>
 <title>AdminUser</title>
+ <style>
+body{
+ background: url(https://motionarray.imgix.net/preview-54581lZpOLX9xfU_0013.jpg);  
+ background-repeat: no-repeat;
+ background-size:100%;
+}
+</style>
 </head>
 <body>
 <div class="container">
